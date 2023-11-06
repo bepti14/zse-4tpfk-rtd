@@ -1,4 +1,4 @@
-Nagłówek 1
+Strona główna
 ##########
 
 Nagłówek 2
