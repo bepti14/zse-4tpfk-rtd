@@ -30,8 +30,8 @@ kod blokowy::
 * punkt
 * punkt
 
-.. image:: ./usage.rst
-  :alt: tu jest obrazek
+.. image:: ścieżka do jakiegoś obrazka
+   :alt: tu jest obrazek
 
 +----------+----------+
 | kolumna1 | kolumna2 |
