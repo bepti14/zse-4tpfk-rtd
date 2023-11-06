@@ -12,9 +12,9 @@ Nagłówek 4
 
 Akapit tekstowy z treściwą treścią
 
-.. note:: Note
+.. note:: Notka
 
-.. tip:: Tip
+.. tip:: Wskazówka
 
 :code: `kod liniowy`
 
@@ -22,3 +22,4 @@ kod blokowy::
 
   rzeczywisty kod
 
+`link do innego serwisu <https://github.com/>`
