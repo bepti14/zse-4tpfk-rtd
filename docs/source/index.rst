@@ -29,3 +29,14 @@ kod blokowy::
 
 * punkt
 * punkt
+
+.. image:: 
+  :alt: tu jest obrazek
+
++----------+----------+
+| kolumna1 | kolumna2 |
++==========+==========+
+| wiersz   | wiersz   |
++----------+----------+
+| wiersz   | wiersz   |
++----------+----------+
