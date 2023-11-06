@@ -23,3 +23,9 @@ kod blokowy::
   rzeczywisty kod
 
 `link do innego serwisu <https://github.com/>`_
+
+#. punkt pierwszy
+#. punkt drugi
+
+* punkt
+* punkt
