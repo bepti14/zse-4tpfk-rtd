@@ -22,4 +22,4 @@ kod blokowy::
 
   rzeczywisty kod
 
-`link do innego serwisu <https://github.com/>`
+`link do innego serwisu <https://github.com/>`_
