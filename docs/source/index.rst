@@ -42,5 +42,5 @@ kod blokowy::
 +----------+----------+
 
 .. toctree::
-usage
-api
+  usage
+  api
