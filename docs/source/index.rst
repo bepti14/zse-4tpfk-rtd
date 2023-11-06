@@ -30,7 +30,7 @@ kod blokowy::
 * punkt
 * punkt
 
-.. image:: 
+.. image:: ./usage.rst
   :alt: tu jest obrazek
 
 +----------+----------+
