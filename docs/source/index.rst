@@ -10,10 +10,6 @@ Nagłówek 3
 Nagłówek 4
 ----------
 
-.. toctree::
-  usage
-  api
-
 Akapit tekstowy z treściwą treścią
 
 .. note:: Notka
