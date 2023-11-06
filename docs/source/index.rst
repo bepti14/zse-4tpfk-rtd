@@ -41,3 +41,6 @@ kod blokowy::
 | wiersz   | wiersz   |
 +----------+----------+
 
+.. toctree::
+usage
+api
